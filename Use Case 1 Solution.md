@@ -32,6 +32,18 @@ Anti-Spam policies help filter unwanted or bulk emails and prevent them from rea
 - Review the Policy and confirm settings 
 - Click Create to apply the policy
 
+## 3. Enabling Zero-Hour Auto Purge
+ZAP automatically removes emails identified as spam, phishing, or malware after delivery.
+
+## Steps to enable Zero-Hour Auto Purge for *Fabrikam Inc.*:
+- Sign in to the Microsoft Defender portal.
+- Navigate to Email & Collaboration > Policies & Rules > Threat Policies.
+- Click Anti-Malware and select Default (Default)
+- Click Edit protection settings
+- Locate Zero-Hour Auto Purge (ZAP) and toggle ON.
+- Click Save to apply changes.
+
+
 
 
 
