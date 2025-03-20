@@ -6,7 +6,7 @@
 Anti-Phishing policies in Microsoft Defender help detect and prevent phishing attacks by analyzing email behaviors, senders, and links.
 
 ## Steps to Configure Anti-Phishing Policies for *Fabrikam Inc.*:
-- Sign in to the **Microsoft Defender portal**
+- Sign in to the Microsoft Defender portal
 - Navigate to Email & Collaboration > Policies & Rules > Threat Policies.
 - Click Anti-Phishing and select Create.
 - Set Policy Name and Description > Click Next.
