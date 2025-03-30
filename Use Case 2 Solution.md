@@ -23,9 +23,7 @@ This is to test if external recipients without Microsoft 365 accounts receives a
 ## Steps to verify external access
 - Send a test encrypted email to an external recipient, for instance, gmail
 - The recipient should receive an email notification with a secure link.
-- They can sign in using:
-        o	A Microsoft account.
-        o	A one-time passcode sent via email.
+- They can sign in using: A Microsoft account or A one-time passcode sent via email.
 
 ## 3. End User Guide: Sending an Encrypted Email Manually
 This entails teaching end users at *M & V Chambers* how to manually encrypt an email in Outlook
