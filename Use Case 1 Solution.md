@@ -43,6 +43,8 @@ ZAP automatically removes emails identified as spam, phishing, or malware after 
 - Locate Zero-Hour Auto Purge (ZAP) and toggle ON.
 - Click Save to apply changes.
 
+PROJECT SUMMARY: By implementing these comprehensive security measures, Fabrikam Inc. significantly bolstered its defenses against phishing and spam attacks. Through the creation of tailored Anti-Phishing and Anti-Spam policies, complete with defined thresholds and protective actions, I established a resilient framework to mitigate email-based threats. The activation of Zero-Hour Auto Purge (ZAP) added another crucial layer of defense by promptly eliminating malicious emails after delivery, thereby reducing vulnerabilities. Together, these strategies provided robust, multilayered protection, ensuring the company's cybersecurity posture effectively shields users from phishing, bulk emails, and domain spoofing attempts.
+
 
 
 
