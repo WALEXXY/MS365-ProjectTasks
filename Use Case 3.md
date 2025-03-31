@@ -1,6 +1,6 @@
 # Implementing Email Retention and Archiving Policies
 ## Scenario:
-A *financial services company* needs to retain emails for *7 years* due to compliance requirements.  
+A financial services company, *Sholz Financials* needs to retain emails for *7 years* due to compliance requirements.  
 
 ### Learning Objectives:
 - Configure *Retention Policies and Labels* in Microsoft Purview  
