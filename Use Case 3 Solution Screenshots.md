@@ -1,1 +1,15 @@
+## 1. Configuring Retention Policies in Microsoft Purview for *Sholz Financials*
+![1  Configuring Retention Policies in Microsoft Purview](https://github.com/user-attachments/assets/786d3f2a-8966-488e-a9da-92d980be772b)
+![2  Configuring Retention Policies in Microsoft Purview](https://github.com/user-attachments/assets/d96d2550-f020-414d-8c0a-32bfec1dc5db)
+![3  Configuring Retention Policies in Microsoft Purview](https://github.com/user-attachments/assets/70c317e2-de7c-4cb1-baea-acc8cf902ab1)
+![4  Configuring Retention Policies in Microsoft Purview](https://github.com/user-attachments/assets/3883ad78-f8d5-4d90-85a9-1257f7290005)
+![5  Configuring Retention Policies in Microsoft Purview](https://github.com/user-attachments/assets/95135876-901b-47b3-9ba4-f7d405bf6a17)
+![6  Configuring Retention Policies in Microsoft Purview](https://github.com/user-attachments/assets/1348fbd6-17f5-4191-9882-1c7d4d5ed0f2)
+![7  Configuring Retention Policies in Microsoft Purview](https://github.com/user-attachments/assets/198687bb-e02b-4da7-8b5b-e75c1761b83d)
+![8  Configuring Retention Policies in Microsoft Purview](https://github.com/user-attachments/assets/a1b2c7c3-aefa-4995-83bf-d783e5efbb34)
+![9  Configuring Retention Policies in Microsoft Purview](https://github.com/user-attachments/assets/e8ec0f1e-8980-4c03-b574-f12bb9acf829)
+![10  Configuring Retention Policies in Microsoft Purview](https://github.com/user-attachments/assets/e269f124-c156-4e0b-a190-e6c16b1a99d1)
+![11  Configuring Retention Policies in Microsoft Purview](https://github.com/user-attachments/assets/25641829-ed4a-4c56-a86e-2a94e347607a)
+![12  Configuring Retention Policies in Microsoft Purview](https://github.com/user-attachments/assets/bde556d0-eb37-4444-bd27-db402b40714b)
+![13  Configuring Retention Policies in Microsoft Purview](https://github.com/user-attachments/assets/1a290e3c-6146-4bff-81ee-67ac4f8fe4b4)
 
