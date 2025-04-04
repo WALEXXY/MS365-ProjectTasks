@@ -20,3 +20,15 @@ Retention policies automatically store and protect emails for a specified durati
 - Click Done
 - Go back to Solutions > Data Lifecycle Management > Policies > Retention Policies (To see the policy newly created)
 
+## 2. Enabling Archiving in Exchange Online
+Archiving moves older emails to a separate mailbox instead of deleting them.
+
+## Steps to enable archiving in Exchange Online for *Sholz Financials*:
+- Sign in to the Exchange admin center (EAC) 
+- Navigate to Recipients > Mailboxes.
+- In the list of mailboxes, select the user mailbox/shared mailbox (Sholz Financials) 
+- On the flyout pane, select Others > Manage mailbox archive:
+- On the Manage mailbox archive pane, Enable ‘Mailbox archive status’ > Save.
+- Go back to Recipients > Mailboxes (To see that Archive status for Sholz Financials is now active)
+
+
