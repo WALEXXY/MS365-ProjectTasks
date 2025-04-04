@@ -13,6 +13,8 @@
 ![12  Configuring Retention Policies in Microsoft Purview](https://github.com/user-attachments/assets/bde556d0-eb37-4444-bd27-db402b40714b)
 ![13  Configuring Retention Policies in Microsoft Purview](https://github.com/user-attachments/assets/1a290e3c-6146-4bff-81ee-67ac4f8fe4b4)
 
+
+
 ## 2. Enabling Archiving in Exchange Online
 ![1  Enabling Archiving in Exchange Online](https://github.com/user-attachments/assets/2685b73c-e5de-4c05-8b00-6042e77488e4)
 ![2  Enabling Archiving in Exchange Online](https://github.com/user-attachments/assets/5ec926a8-133b-4170-a8e9-8b5150cef49c)
@@ -23,6 +25,8 @@
 ![7  Enabling Archiving in Exchange Online](https://github.com/user-attachments/assets/59982514-6570-4cce-8472-651ab1d900ff)
 ![8  Enabling Archiving in Exchange Online](https://github.com/user-attachments/assets/840b63a5-dbba-4c78-80c3-2f552c029555)
 ![9  Enabling Archiving in Exchange Online](https://github.com/user-attachments/assets/658491c8-e305-49e6-a88e-9f7331465087)
+
+
 
 ## 3. Apply Sensitivity Labels in Microsoft Purview to Archived Emails for *Sholz Financials*
 ![1  Applying Sensitivity Labels to Archived Emails](https://github.com/user-attachments/assets/6a45efd5-84f9-458d-a207-8f873a2c79fc)
