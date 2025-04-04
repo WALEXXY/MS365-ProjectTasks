@@ -31,4 +31,23 @@ Archiving moves older emails to a separate mailbox instead of deleting them.
 - On the Manage mailbox archive pane, Enable ‘Mailbox archive status’ > Save.
 - Go back to Recipients > Mailboxes (To see that Archive status for Sholz Financials is now active)
 
+## 3. Apply Sensitivity Labels in Microsoft Purview to Archived Emails for *Sholz Financials*
+Sensitivity Labels in Microsoft Purview classify and encrypt sensitive emails automatically.
+
+## Steps to apply and publish sensitivity labels in Microsoft Purview to archived emails for *Sholz Financials*:
+- Sign in to the Microsoft Purview portal
+- Navigate to Solutions > Information Protection > Sensitivity Labels
+- Click on ‘Create a label’ > Set Label details > Next
+- Set Scope > Next
+- Set Items (Access Control, Content Marking, Auto labeling for files and emails) > Next
+- Define protection settings for groups & sites > Next
+- Review & confirm the settings > Create label
+- Go back to Sensitivity Labels to see the created label
+- Click on the newly created label (SholzFinancials-Confidential) > Publish label > Next
+- Select Users and Groups > Done > Next
+- Set policy settings (Documents, Emails, Meetings, Fabric & Power BI) > Next
+- Set Policy Name > Next
+- Review & Confirm policy settings > Submit > Done
+ 
+
 
