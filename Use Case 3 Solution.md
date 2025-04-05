@@ -48,6 +48,18 @@ Sensitivity Labels in Microsoft Purview classify and encrypt sensitive emails au
 - Set policy settings (Documents, Emails, Meetings, Fabric & Power BI) > Next
 - Set Policy Name > Next
 - Review & Confirm policy settings > Submit > Done
+
+## 4. Enabling Litigation Hold for a User Mailbox
+Litigation Hold ensures that emails and other mailbox items are preserved indefinitely or for a specified period, even if a user tries to delete them. This is crucial for compliance investigations, legal disputes, or regulatory audits.
+
+## Steps to enable Litigation Hold for a User Mailbox for *Sholz Financials*:
+- Sign in to the Exchange admin center (EAC) 
+- Navigate to Recipients > Mailboxes.
+- In the list of mailboxes, select the user mailbox/shared mailbox (Sholz Financials) 
+- On the flyout pane, select Others > Manage litigation hold
+- On the Manage litigation hold pane, enable ‘litigation hold’ (This brings out dialog boxes to be filled such as ‘Hold Duration’ and ‘Reason for the hold’ which are to be filled)
+- Click Save to apply changes
+
  
 
 
