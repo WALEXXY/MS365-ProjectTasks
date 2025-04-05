@@ -52,6 +52,27 @@
 ![21  Applying Sensitivity Labels to Archived Emails](https://github.com/user-attachments/assets/55d178e4-e644-4854-8121-e0e931bd34fa)
 ![22  Applying Sensitivity Labels to Archived Emails](https://github.com/user-attachments/assets/d4a3141e-3d2b-46fa-9b56-733e52a83f34)
 
+## 4. Enabling Litigation Hold for a User Mailbox for *Sholz Financials*
+![1  Enabling Litigation Hold  in Exchange Online](https://github.com/user-attachments/assets/093607e5-1dc3-47d4-89aa-c7ae29880a22)
+![2  Enabling Litigation Hold in Exchange Online](https://github.com/user-attachments/assets/d17d6b4d-53a3-4f82-ba3c-a6c76444473d)
+![3  Enabling Litigation Hold in Exchange Online](https://github.com/user-attachments/assets/d98de256-d55e-4b7e-b45a-4b2f9b198a8f)
+![4  Enabling Litigation Hold in Exchange Online](https://github.com/user-attachments/assets/a711b99f-8807-4404-a04e-29c97ea2f884)
+![5  Enabling Litigation Hold in Exchange Online](https://github.com/user-attachments/assets/21b7152c-f138-43d9-b5e5-12dc0dd01e78)
+![6  Enabling Litigation Hold in Exchange Online](https://github.com/user-attachments/assets/45e12cd2-3533-4a1a-9bed-8a455410c29b)
+![7  Enabling Litigation Hold in Exchange Online](https://github.com/user-attachments/assets/17be8ad8-19f5-4194-84f2-c54535d682a9)
+![8  Enabling Litigation Hold in Exchange Online](https://github.com/user-attachments/assets/1ab32f25-8eb5-4775-b990-b461e49f6259)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
