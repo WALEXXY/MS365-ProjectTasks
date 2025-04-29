@@ -5,7 +5,7 @@
 The below steps are involved in preventing users from sending credit card information via email:
 
 ## 1. Configure a Data Loss Prevention (DLP Policy)
-The Data Loss Prevention (DLP) policy created in Microsoft Purview is designed to detect and block emails containing credit card numbers in Exchange Online. It helps protect sensitive financial information from being accidentally or maliciously sent outside the organization. When a user attempts to send such information, the DLP policy automatically blocks the email and displays a policy tip, informing the sender about the violation and encouraging secure data handling practices. This ensures compliance with data protection standards likePayment Card Industry Data Security Standard (PCI-DSS) and enhances the organization’s overall information security posture.
+The Data Loss Prevention (DLP) policy created in Microsoft Purview is designed to detect and block emails containing credit card numbers in Exchange Online. It helps protect sensitive financial information from being accidentally or maliciously sent outside the organization. When a user attempts to send such information, the DLP policy automatically blocks the email and displays a policy tip, informing the sender about the violation and encouraging secure data handling practices. This ensures compliance with data protection standards like Payment Card Industry Data Security Standard (PCI-DSS) and enhances the organization’s overall information security posture.
 
 ## Steps to configure a data loss prevention policy for *Micadak Investments*:
 - Go to Microsoft Purview Portal (purview.microsoft.com)
