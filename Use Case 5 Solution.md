@@ -59,7 +59,7 @@ Under ‘Do the following’: Select ‘Block the message’ > Select ‘Reject 
 -	Click on ‘Disabled’ to enable the rule
 -	
 
-PROJECT SUMMARY
+PROJECT SUMMARY:
 To strengthen data security and ensure regulatory compliance, Micadak Investments initiated a project to prevent employees from sending emails containing credit card numbers. The primary objective was to mitigate the risk of accidental data exposure and meet data protection standards like PCI-DSS.
 Using Microsoft Purview’s Data Loss Prevention (DLP) capabilities, we implemented a custom DLP policy targeting Exchange Online. This policy automatically detects the presence of credit card information and blocks outbound emails containing such data. Additionally, we configured policy tips to educate users about secure communication practices in real time.
 To supplement the DLP strategy, we leveraged Mail Flow Rules in Exchange Online to:
