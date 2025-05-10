@@ -50,10 +50,13 @@ Department-specific pages or document libraries allow each unit within the organ
 - Click New > Document library
 - Give the name and description of the library > create (Use this process to create as many libraries as you want)
 - Click on the three dots (…) on the home page to view all libraries created
+
+
+  
   
 
-Project Summary:
 
+Project Summary:
 To streamline communication and document accessibility across departments, we created a SharePoint Communication Site named The Oderinde Hub. The portal serves as a central intranet for sharing company news, accessing policy documents, and linking department resources.
 We implemented:
 •	Custom web parts such as News, Quick Links, and Group Calendars
